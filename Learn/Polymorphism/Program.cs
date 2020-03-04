@@ -21,7 +21,6 @@ namespace Polymorphism
             
             Console.WriteLine("2. Dynamic / Runtime");
 
-
             List<Shape> ShapeList = new List<Shape>();
             Shape circle = new Circle();            
             Shape Rectangle = new Rectangle(5.3,3.4);
