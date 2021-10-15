@@ -1,5 +1,0 @@
-Esta es una pruebaaaaa
-Holi
-Retomando curso Octubre 2021
-
-Utilizando el git reset
