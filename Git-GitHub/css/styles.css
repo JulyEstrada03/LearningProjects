@@ -6,6 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #1e1f24;    
 }
 #container
 {
@@ -21,12 +22,20 @@ body
 }
 #cabecera
 {
-    color:orange;
-    background-color: #333;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    font-size: bold;
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
